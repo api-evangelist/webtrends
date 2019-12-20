@@ -1,0 +1,69 @@
+{
+    "name": "Webtrends",
+    "description": "Webtrends - Discover data-driven solutions and find new ways to reach your customers. We offer website analytics, measurement, testing & more. Learn more.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/526-webtrends.jpg",
+    "tags": [
+        "have api",
+        "metrics",
+        "website analytics"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/webtrends\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Webtrends",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/526-webtrends.jpg",
+            "humanURL": "http:\/\/developer.webtrends.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/webtrends-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/webtrends-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.webtrends.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.webtrends.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/webtrends"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/webtrends"
+        },
+        {
+            "type": "Email",
+            "url": "sales@webtrends.com"
+        },
+        {
+            "type": "Email",
+            "url": "emea@webtrends.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Webtrends"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/webtrends"
+        }
+    ]
+}
